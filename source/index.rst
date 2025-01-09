@@ -17,5 +17,4 @@ The secons is a MISLAND Mobile application that enables on the fly calculation o
    :maxdepth: 2
 
    qgisPlugin
-   mobileApplication
 

@@ -5,7 +5,8 @@
 
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
-import sphinx_rtd_theme
+# import sphinx_rtd_theme
+import pydata_sphinx_theme
 
 project = 'MISLAND Docs'
 copyright = '2024, kevinkiprotich0089@gmail.com, info@locateit.co.ke'
@@ -25,7 +26,7 @@ exclude_patterns = []
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
-html_theme = 'sphinx_rtd_theme'
+html_theme = 'pydata_sphinx_theme'
 
 html_static_path = ['_static']
 
